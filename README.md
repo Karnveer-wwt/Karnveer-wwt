@@ -124,16 +124,21 @@ async function getWalletBalance() {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Karnveer-wwt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Karnveer-wwt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://img.shields.io/github/followers/Karnveer-wwt?style=for-the-badge&logo=github&color=8e2de2&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/Karnveer-wwt/Karnveer-wwt?style=for-the-badge&logo=git&color=2c5364&labelColor=0d1117" alt="Last Commit" />
+  <img src="https://img.shields.io/github/created-at/Karnveer-wwt?style=for-the-badge&logo=github&color=8e2de2&labelColor=0d1117&label=On%20GitHub%20Since" alt="Joined" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=Karnveer-wwt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karnveer-wwt/Karnveer-wwt/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karnveer-wwt/Karnveer-wwt/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Karnveer-wwt/Karnveer-wwt/output/github-snake-dark.svg" />
+  </picture>
 
 </div>
 
