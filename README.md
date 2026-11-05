@@ -81,13 +81,17 @@ Building modern web applications with clean UI, scalable architecture, and relia
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karnveer-wwt&show_icons=true&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Karnveer-wwt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karnveer-wwt&layout=compact&theme=tokyonight&hide_border=true)
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karnveer-wwt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
+
 
 ---
 
